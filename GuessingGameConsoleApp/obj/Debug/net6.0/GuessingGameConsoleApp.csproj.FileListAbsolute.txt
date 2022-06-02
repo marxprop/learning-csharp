@@ -1,0 +1,15 @@
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\bin\Debug\net6.0\GuessingGameConsoleApp.exe
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\bin\Debug\net6.0\GuessingGameConsoleApp.deps.json
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\bin\Debug\net6.0\GuessingGameConsoleApp.runtimeconfig.json
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\bin\Debug\net6.0\GuessingGameConsoleApp.dll
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\bin\Debug\net6.0\GuessingGameConsoleApp.pdb
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.AssemblyInfo.cs
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.dll
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\refint\GuessingGameConsoleApp.dll
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.pdb
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\GuessingGameConsoleApp.genruntimeconfig.cache
+C:\Users\matth\source\repos\GuessingGameConsoleApp\GuessingGameConsoleApp\obj\Debug\net6.0\ref\GuessingGameConsoleApp.dll
