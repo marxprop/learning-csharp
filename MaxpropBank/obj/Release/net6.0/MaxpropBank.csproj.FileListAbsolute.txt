@@ -1,0 +1,15 @@
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.AssemblyInfo.cs
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\bin\Release\net6.0\MaxpropBank.exe
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\bin\Release\net6.0\MaxpropBank.deps.json
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\bin\Release\net6.0\MaxpropBank.runtimeconfig.json
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\bin\Release\net6.0\MaxpropBank.dll
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\bin\Release\net6.0\MaxpropBank.pdb
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.dll
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\refint\MaxpropBank.dll
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.pdb
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\MaxpropBank.genruntimeconfig.cache
+C:\Users\matth\source\repos\MaxpropBank\MaxpropBank\obj\Release\net6.0\ref\MaxpropBank.dll
